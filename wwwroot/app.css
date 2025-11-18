@@ -37,9 +37,9 @@ h1:focus {
     text-align: start;
 }
 
-#dotnet-compile-error {
-    display: none !important;
-}
+/*#dotnet-compile-error {*/
+/*    display: none !important;*/
+/*}*/
 
 .matt {
     font-family: Arial;
